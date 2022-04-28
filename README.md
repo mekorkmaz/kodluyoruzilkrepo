@@ -7,8 +7,8 @@ Bu repo [Kodluyoruz](https://patika.dev/) Front-End Eğitiminde oluşturduğumuz
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
 ```
-# code block
 git clone https://github.com/mekorkmaz/kodluyoruzilkrepo.git
+
 ```
 
 
