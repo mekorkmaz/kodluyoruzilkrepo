@@ -3,8 +3,11 @@ Bu repo [Kodluyoruz](https://patika.dev/) Front-End Eğitiminde oluşturduğumuz
 
 
 
-**Installation**
+## Installation
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
+
+```git clone https://github.com/mekorkmaz/kodluyoruzilkrepo.git
+```
 
 
 ## Usage
